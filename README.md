@@ -1,6 +1,6 @@
-# Customer Labs
+# Synth Labs
 
-Customer Labs helps product builders explore who might choose their product, why others might pass, and what to improve before launch. Upload a product brief, collect market evidence, review customer segments, and simulate individual buying decisions against competing offers and the option to keep an existing solution.
+Synth Labs helps product builders explore who might choose their product, why others might pass, and what to improve before launch. Upload a product brief, collect market evidence, review customer segments, and simulate individual buying decisions against competing offers and the option to keep an existing solution.
 
 **Customers and decisions are synthetic.** They are research hypotheses—not surveyed buyers, verified demand, sales forecasts, or real purchases.
 
